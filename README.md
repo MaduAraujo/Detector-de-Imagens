@@ -2,7 +2,7 @@
 
 ## 🔗 Demonstração
 Experimente a aplicação em funcionamento:
-[**Acesse a Aplicação**](https://detector-de-imagem-com-ia-910511479451.us-west1.run.app)
+[**Acesse a aplicação**](https://detector-de-imagem-com-ia-910511479451.us-west1.run.app/)
 
 ## ✨ Sobre o Projeto
 
