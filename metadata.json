@@ -1,0 +1,5 @@
+{
+  "name": "Detector de Imagem com IA",
+  "description": "Uma aplicação que utiliza a API Gemini para analisar imagens enviadas pelos usuários. O sistema identifica objetos, cenários e fornece percepções detalhadas sobre o conteúdo da imagem.",
+  "requestFramePermissions": []
+}
