@@ -6,8 +6,7 @@
 
 ## 🔗 Demonstração
 
-Experimente a aplicação em funcionamento:
-[**Acesse a aplicação**](https://detector-de-imagem-com-ia-910511479451.us-west1.run.app)
+https://github.com/user-attachments/assets/753d73af-c2e2-4c6a-8707-680f77e55024
 
 ## ✨ Sobre o Projeto
 
