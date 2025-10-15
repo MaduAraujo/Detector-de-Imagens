@@ -61,8 +61,6 @@ Para rodar esta aplicação, você precisará ter o Node.js instalado:
     GEMINI_API_KEY="SUA_CHAVE_AQUI" 
     ```
 
-    *Substitua* `"SUA_CHAVE_AQUI"` pela chave que você obteve no Google AI Studio.
-
 4.  **Execute a Aplicação:**
 
     Inicie o servidor de desenvolvimento:
